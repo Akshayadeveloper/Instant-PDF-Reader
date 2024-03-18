@@ -2,18 +2,18 @@
 This project is an Instant PDF Reader 📖🤓 web app using HTML, CSS, and JavaScript. It enables users to upload PDFs and view them instantly in the browser, featuring dynamic rendering and responsive scaling for a seamless reading experience.
 
 For live demo 🎂Click to visit website ➡️ 
-https://akshayadeveloper.github.io/Instant-PDF-Reader-/
+https://akshayadeveloper.github.io/Instant-PDF-Reader/index.html
 For video▶️ tutorial 🎦 click here ➡️🥞 https://www.youtube.com/@AkshayaDeveloper.
 <br><br>
 <b><p> Mobile 📱 Version Demo</p></b>
-<img src="https://github.com/Akshayadeveloper/Instant-PDF-Reader-/blob/main/IMG_20240317_160641.jpg">
-<img src="https://github.com/Akshayadeveloper/Instant-PDF-Reader-/blob/main/IMG_20240317_160702.jpg">
-<img src="https://github.com/Akshayadeveloper/Instant-PDF-Reader-/blob/main/IMG_20240317_162640.jpg">
+<img src="https://github.com/Akshayadeveloper/Instant-PDF-Reader/blob/main/IMG_20240317_160641.jpg">
+<img src="https://github.com/Akshayadeveloper/Instant-PDF-Reader/blob/main/IMG_20240317_160712.jpg">
+<img src="https://github.com/Akshayadeveloper/Instant-PDF-Reader/blob/main/IMG_20240317_162640.jpg">
 
 
 <b><p>Desktop 🖥️ Version Demo</p></b>
-<img src="https://github.com/Akshayadeveloper/Instant-PDF-Reader-/blob/main/IMG_20240317_160651.jpg">
-<img src="https://github.com/Akshayadeveloper/Instant-PDF-Reader-/blob/main/IMG_20240317_160712.jpg">
+<img src="https://github.com/Akshayadeveloper/Instant-PDF-Reader/blob/main/IMG_20240317_160651.jpg">
+<img src="https://github.com/Akshayadeveloper/Instant-PDF-Reader/blob/main/IMG_20240317_160702.jpg">
 
 ### Project Description:
 This is an Instant PDF Reader web application built using HTML, CSS, and JavaScript. It allows users to upload PDF files and view them instantly within the browser.
