@@ -1,0 +1,26 @@
+ /* styles.css */
+@import url( 
+"https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+body { 
+  margin: 0; padding: 0; font-family: Arial, sans-serif; 
+    background-image: linear-gradient(90deg, #fad0c4 0%, #ffd1ff 100%);
+  } 
+  
+  #pdfContainer { 
+    max-width: 100%; 
+  }
+  canvas { 
+    display: block; margin: auto;
+  }
+  h2{
+    color:#fff;
+    text-align:center;
+    background-image:linear-gradient(80deg, #03001e, #7303c0, #ec38bc, #fdeff9);
+    text-align:center;
+     -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+  }
+  .footer{
+    text-align:center;
+  }
